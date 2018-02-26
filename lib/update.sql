@@ -1,2 +1,2 @@
 UPDATE species
-SET species 
+SET species = 'Martian'
