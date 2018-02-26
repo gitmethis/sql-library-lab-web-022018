@@ -4,6 +4,7 @@ CREATE TABLE series(
 )
 
 CREATE TABLE Sub-Genre(
+  id INTEGER PRIMARY KEY,
   name TEXT,
   
 )
