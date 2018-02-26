@@ -1,3 +1,3 @@
 UPDATE species
 SET species = 'Martian'
-WHERE 
+WHERE id = max(id)
