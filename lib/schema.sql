@@ -1,16 +1,16 @@
 CREATE TABLE series(
   id INTEGER PRIMARY KEY,
-  title TEXT,
+  title TEXT
 )
 
 CREATE TABLE subgenres(
   id INTEGER PRIMARY KEY,
-  name TEXT,
+  name TEXT
 )
 
 CREATE TABLE authors(
   id INTEGER PRIMARY KEY,
-  name TEXT,
+  name TEXT
 )
 
 CREATE TABLE Books(
