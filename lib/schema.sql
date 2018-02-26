@@ -10,6 +10,7 @@ CREATE TABLE Sub-Genre(
 )
 
 CREATE TABLE Books(
+  id INTEGER PRIMARY KEY,
   title TEXT,
   year INTEGER
 )
